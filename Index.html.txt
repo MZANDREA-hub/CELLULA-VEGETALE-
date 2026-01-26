@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>La Cellula Vegetale</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0fff0;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: #2e7d32;
+        }
+        ul {
+            background: #ffffff;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>La Cellula Vegetale</h1>
+    <p>Struttura e funzioni principali</p>
+</header>
+
+<section>
+    <h2>Cos'è la cellula vegetale?</h2>
+    <p>
+        La cellula vegetale è l'unità fondamentale degli organismi vegetali.
+        Si distingue dalla cellula animale per la presenza di strutture
+        specifiche come la parete cellulare e i cloroplasti.
+    </p>
+</section>
+
+<section>
+    <h2>Parti principali della cellula vegetale</h2>
+    <ul>
+        <li><strong>Parete cellulare</strong>: protegge e dà forma alla cellula</li>
+        <li><strong>Membrana cellulare</strong>: regola il passaggio delle sostanze</li>
+        <li><strong>Nucleo</strong>: contiene il DNA</li>
+        <li><strong>Cloroplasti</strong>: permettono la fotosintesi</li>
+        <li><strong>Vacuolo centrale</strong>: conserva acqua e sostanze nutritive</li>
+        <li><strong>Mitocondri</strong>: producono energia</li>
+        <li><strong>Citoplasma</strong>: contiene gli organuli cellulari</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Perché è importante?</h2>
+    <p>
+        Grazie alla cellula vegetale le piante possono produrre il proprio
+        nutrimento tramite la fotosintesi, fornendo ossigeno e cibo
+        a tutti gli esseri viventi.
+    </p>
+</section>
+
+<footer>
+    <p>Sito realizzato per scopi didattici</p>
+</footer>
+
+</body>
+</html>
